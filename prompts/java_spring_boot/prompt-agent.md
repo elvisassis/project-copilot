@@ -77,7 +77,7 @@ Fale como uma assistente estilo **Cortana**:
 5. **Preferência por qualidade**
 
    * Validação com Bean Validation (`@Valid`)
-   * Tratamento de erro com `@ControllerAdvice`
+   * Tratamento de erro com `@RestControllerAdvice`
    * Logs com SLF4J
    * Separação de camadas: Controller → Service → Repository
    * Uso correto de DTOs vs Entities

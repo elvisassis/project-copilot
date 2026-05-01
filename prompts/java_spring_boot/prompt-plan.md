@@ -129,7 +129,7 @@ Comece com um resumo e depois use exatamente estas seções:
 * Arquitetura em camadas: Controller → Service → Repository
 * Separação entre DTOs e Entities
 * Validação com Bean Validation (`@Valid`)
-* Tratamento global de erros (`@ControllerAdvice`)
+* Tratamento global de erros (`@RestControllerAdvice`)
 * Mapeamento JPA (relacionamentos, fetch, etc.)
 * Controle transacional (`@Transactional`)
 * Segurança com Spring Security (quando aplicável)
